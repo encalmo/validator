@@ -15,6 +15,8 @@ Here the validator is represented by the function type alias:
 
 The rest of the API is focused on creating and composing instances of `Validate[T]`.
 
+## Table of contents
+
 ## Dependencies
 
    - [Scala](https://www.scala-lang.org) >= 3.3.6
@@ -453,3 +455,5 @@ validateFoo.apply(Foo("X678",Some(2),true,Seq("abc"),Bar(500,Some(Seq(8))))).deb
 // Valid
 // res32: Result = Right(value = ())
 ```
+
+## Project content
