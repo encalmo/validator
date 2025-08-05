@@ -1,4 +1,4 @@
-<a href="https://central.sonatype.com/artifact/org.encalmo/validator_3" target="_blank">![Maven Central Version](https://img.shields.io/maven-central/v/org.encalmo/validator_3?style=for-the-badge)</a> <a href="https://encalmo.github.io/validator/scaladoc/org/encalmo/validator.html" target="_blank"><img alt="Scaladoc" src="https://img.shields.io/badge/docs-scaladoc-red?style=for-the-badge"></a>
+<a href="https://github.com/encalmo/validator">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> <a href="https://central.sonatype.com/artifact/org.encalmo/validator_3" target="_blank">![Maven Central Version](https://img.shields.io/maven-central/v/org.encalmo/validator_3?style=for-the-badge)</a> <a href="https://encalmo.github.io/validator/scaladoc/org/encalmo/validator.html" target="_blank"><img alt="Scaladoc" src="https://img.shields.io/badge/docs-scaladoc-red?style=for-the-badge"></a>
 
 # Validator
 
@@ -17,7 +17,7 @@ The rest of the API is focused on creating and composing instances of `Validate[
 
 ## Dependencies
 
-- Scala >= 3.3.6
+   - [Scala](https://www.scala-lang.org) >= 3.3.6
 
 ## Usage
 
